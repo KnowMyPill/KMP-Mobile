@@ -2,8 +2,12 @@
 build/
 .flutter-plugins
 .flutter-plugins-dependencies
-android/app/release/app-release.aab
-.DS_Store
-.idea/
-android/
+android/app/release/
+/.DS_STORE
+~/.DS_STORE
+.vscode/**
+.idea/**
+android/**
 ios/**
+
+!ios/Podfile
