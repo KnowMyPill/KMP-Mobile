@@ -24,7 +24,7 @@ _Refer to the following for <b>our code</b>:_ <br>
 + [📼 Demo Video](#-demo-video) <br>
 + [✨ Key Functions](#-key-functions)<br>
 + [⚙️ Technology](#%EF%B8%8F-technology) <br>
-+ [🗂️ Directory Organization](#-repository-organization) <br>
++ [🗂️ Directory Organization](#-directory-organization) <br>
 + [⚡ Getting Started](#-getting-started) <br>
 + [🏃🏻‍♀️ Team Parkour](#%EF%B8%8F-team-parkour) <br>
 
@@ -177,7 +177,7 @@ Connected to the frontend component through an `HTTP` request, the `Google Cloud
 For developers, PillKaBoo uses `GitHub Action` for the CI/CD pipeline to automate and streamline the process of building, testing, and deploying applications.
 
 ---
-# Directory organization
+## 🗂️ Directory Organization
 
 ```
 📂lib
