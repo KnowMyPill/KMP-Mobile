@@ -5,9 +5,3 @@ build/
 android/app/release/
 /.DS_STORE
 ~/.DS_STORE
-.vscode/**
-.idea/**
-android/**
-ios/**
-
-!ios/Podfile
