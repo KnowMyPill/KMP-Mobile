@@ -8,6 +8,7 @@
 .packages
 .pub-cache/
 .pub/
+.vscode/** */
 build/
 coverage/
 lib/generated_plugin_registrant.dart
