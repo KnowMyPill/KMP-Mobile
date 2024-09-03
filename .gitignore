@@ -3,3 +3,7 @@ build/
 .flutter-plugins
 .flutter-plugins-dependencies
 android/app/release/app-release.aab
+.DS_Store
+.idea/
+android/
+ios/**
