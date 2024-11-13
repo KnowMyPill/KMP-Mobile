@@ -204,9 +204,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   audioplayers_darwin: 877d9a4d06331c5c374595e46e16453ac7eafa40
-  camera_avfoundation: 759172d1a77ae7be0de08fc104cfb79738b8a59e
+  camera_avfoundation: dd002b0330f4981e1bbcb46ae9b62829237459a4
   connectivity_plus: bf0076dd84a130856aa636df1c71ccaff908fa1d
-  device_info_plus: c6fb39579d0f423935b0c9ce7ee2f44b71b9fce6
+  device_info_plus: bf2e3232933866d73fe290f2942f2156cdd10342
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
   flutter_native_splash: 52501b97d1c0a5f898d687f1646226c1f93c56ef
   flutter_tts: 0f492aab6accf87059b72354fcb4ba934304771d
@@ -229,7 +229,7 @@ SPEC CHECKSUMS:
   MLKitVision: 8baa5f46ee3352614169b85250574fde38c36f49
   nanopb: 438bc412db1928dac798aa6fd75726007be04262
   path_provider_foundation: c68054786f1b4f3343858c1e1d0caaded73f0be9
-  permission_handler_apple: 036b856153a2b1f61f21030ff725f3e6fece2b78
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
   PromisesObjC: f5707f49cb48b9636751c5b2e7d227e43fba9f47
   ReachabilitySwift: 2128f3a8c9107e1ad33574c6e58e8285d460b149
   sensors_plus: 5717760720f7e6acd96fdbd75b7428f5ad755ec2
@@ -241,4 +241,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 0ac46995455f628dbedf8fd77fa74fd9ce8c1054
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
