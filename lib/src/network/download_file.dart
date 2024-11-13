@@ -38,13 +38,13 @@ Future<void> updateLastDownloadTime() async {
 Future<bool> shouldDownloadNewData() async {
   final prefs = await SharedPreferences.getInstance();
   int? lastDownload = prefs.getInt('lastDownload');
-  //print("Last download: $lastDownload");
+
   if (lastDownload == null) {
-    return true; // No previous download found
+    return true; 
   }
 
   final lastDownloadDate = DateTime.fromMillisecondsSinceEpoch(lastDownload);
-  //print('Last download: $lastDownloadDate');
   final oneWeekAgo = DateTime.now().subtract(const Duration(days: 7));
   return lastDownloadDate.isBefore(oneWeekAgo);
 }
+
