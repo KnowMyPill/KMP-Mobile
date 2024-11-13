@@ -38,6 +38,7 @@ class DateParser {
         return DateTime(year, month, day);
       }
     }
+    return null;
   }
 
 
